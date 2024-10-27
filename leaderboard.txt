@@ -1,0 +1,9 @@
+player 540
+rahul 250
+shashwat 170
+niku 80
+rajesh 70
+akash 60
+shashwat 60
+vishal 30
+play 10
